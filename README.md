@@ -18,7 +18,7 @@ On Heroku: https://jpa03-yinglong.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-yinglong
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-yinglong/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-yinglong)
 
 
 ## Integrations
