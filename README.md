@@ -16,7 +16,7 @@ On Heroku: https://jpa03-yinglong.herokuapp.com
   badge markup below as well so that the badge links to your
   correct codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-yinglong
+On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-YINGLONGWANG
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-yinglong/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-yinglong)
 
